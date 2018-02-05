@@ -1,4 +1,4 @@
 # Monday
-git practice repo
+Git practice repo
 
 ## Good Morning!
